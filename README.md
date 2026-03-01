@@ -1,5 +1,5 @@
 # Spotify Analytics Dashboard
-![Spotify Dashboard](spotify_dashboard.png)
+![Spotify Dashboard](jana.png)
 Interactive music analytics dashboard built with Power BI to analyze song popularity, artist performance, and album trends through dynamic data visualizations.
 
 ## Tools Used
